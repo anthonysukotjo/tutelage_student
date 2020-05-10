@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "715792535993",
+    "firebase_url": "https://tutelage-45281.firebaseio.com",
+    "project_id": "tutelage-45281",
+    "storage_bucket": "tutelage-45281.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715792535993:android:532a338fdedfc3e20ca668",
+        "android_client_info": {
+          "package_name": "com.example.tutelage_student"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715792535993-gbv4tlqol7onpadkav65oghl752ldm5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyButlxes3hfdJd4wVsxEbBjHPhxQJ551Ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715792535993-gbv4tlqol7onpadkav65oghl752ldm5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
